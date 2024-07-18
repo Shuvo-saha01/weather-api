@@ -1,0 +1,11 @@
+1 get all general info
+2 primary weather (description, temperature, feels like, pressure, humidity)
+3 cordinates
+4 wind
+
+api end points 
+
+all information : /api/weather/:city
+weather : /api/weather/:city
+cordinates : /api/cordinate/:city
+wind details : /api/wind/:city
